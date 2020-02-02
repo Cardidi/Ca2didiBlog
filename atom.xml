@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老张的咕博</title>
+  
+  <subtitle>鸽以咏志</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ca2didi.xyz/"/>
+  <updated>2020-02-02T15:21:53.496Z</updated>
+  <id>https://ca2didi.xyz/</id>
+  
+  <author>
+    <name>张修睿</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://ca2didi.xyz/%E9%9A%8F%E7%AC%94/2020/helloworld/"/>
+    <id>https://ca2didi.xyz/随笔/2020/helloworld/</id>
+    <published>2020-02-02T11:48:22.000Z</published>
+    <updated>2020-02-02T15:21:53.496Z</updated>
+    
+    <content type="html"><![CDATA[<p>又是一次新的Hello World了呢。似乎每一个博客的第一篇默认文章都是Hello World呢，Hexo这个引擎也不例外。</p><h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>说实话，上次搞博客，大概是1年之前的事情了。每一次我想尝试去用博客记录一些东西的时候，总是搞着搞忘或者懒了。换句话说，不是看着服务器过期销毁，就是看着域名过期回收。这么一想还是有那么一点点不幸的——没有坚持下来。</p><p>但是，这次情况有点不同。作为高三学生，却因为武汉的肺炎，导致我们不得不在家里复习，准备2020年的高考。说实话还是有一点点高兴，可以在家复习，在家安排，时间充裕——只要能够管的住自己就好。所以我想到，每天抽点时间写几笔，至少让我知道我要干啥。（其实还有语文老师的”怂恿“）真好，能表达自己的感觉的确很棒！</p><p>但是说实话，我感觉我算是一个不怎么有趣的人。不知道有什么好玩或者好写，就只知道闲——盯着一个点，想象它成为一个面，然后就失去意识般的盯着，直到外来物把我打断。也许不是外来物，可能就是我在想什么东西，但是想着想忘记了，就回过神来了。</p><p>个人也不是很喜欢某种喧嚣——我承认我有些离群，我讨厌一些流行文化，因为我认为它们不是美。由于一些关系，我相对于同龄人来讲更早接触到网络和计算机，也更早的使用外网资源。所以视角可能不太一样，这点就有点麻烦了，不过还好，我还有理解我的朋友。当然，我的朋友也喜欢计算机。（除了一个喜欢乐器的文科生）</p><p>突然有一种感觉，想说点什么，却不知道说什么。明明仔细想来能说的还蛮多，但是一时半会说不了。算了，简单聊聊接下来的计划。</p><h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><p>我要坚持更新——是不可能的，高三做梦呢。这次的这个博客我也是直接用别人的主题来做的。工作室的新首页还在设计中——但说实话我太难了，估计等到高三毕业了才有可能成事。</p><p>所以，我这次不强求我自己要去写什么，但是只要做到一点——想写的时候一定要坚持去写。这样子也许是个好主意，没有一种没写要负罪的感觉。《自控力》这本书提到过一点，不要让负罪感变成动力，那样子是很危险的。但是我估计我这次延长假期结束之后我就没啥机会碰到电脑了，所以我想从2020年年初到高考这段时间更新会很慢很慢——不过我相信也没几个人会看，所以有什么好怕的？</p><p>而且，我也希望我能够通过写一点东西来提高我那难看的语文成绩——吃了不咋看文艺书的亏，没法。（毕竟我把计算机科学的书当课外书看）所以，这个博客我想先从写文章开始走。技术文章什么的都可以先放放，毕竟我知道我就算是计算机科学的书读的再多，我经验不足，先慢慢摸索着过河整理吧。当然，我也想尝试去写一点小说之类的东西。想法有点多，要学着找个方法表达出来才行。</p><p>还想说点什么，但实在摸不清楚，那只能等下回罢。见谅！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;又是一次新的Hello World了呢。似乎每一个博客的第一篇默认文章都是Hello World呢，Hexo这个引擎也不例外。&lt;/p&gt;
+&lt;h2 id=&quot;缘起&quot;&gt;&lt;a href=&quot;#缘起&quot; class=&quot;headerlink&quot; title=&quot;缘起&quot;&gt;&lt;/a&gt;缘起&lt;/h2&gt;&lt;p
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://ca2didi.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="武汉肺炎" scheme="https://ca2didi.xyz/tags/%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E/"/>
+    
+      <category term="寒假" scheme="https://ca2didi.xyz/tags/%E5%AF%92%E5%81%87/"/>
+    
+      <category term="高中" scheme="https://ca2didi.xyz/tags/%E9%AB%98%E4%B8%AD/"/>
+    
+  </entry>
+  
+</feed>
